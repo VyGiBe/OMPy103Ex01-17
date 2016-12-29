@@ -12,7 +12,7 @@ print "Is it true that 3 + 2 < 5 - 7?"#比较3加2的值和5减7的值的大小
 
 print 3 + 2 < 5 - 7 #输出逻辑结果
 
-print "What is 3 + 2?", 3 + 2 #
+print "What is 3 + 2?", 3 + 2 
 
 print "What is 5 - 7?", 5 - 7
 
