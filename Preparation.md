@@ -1,6 +1,6 @@
 # 需学习的其他基础内容和技能
 ##1. 打字  
-  Typist
+  [Typist](https://itunes.apple.com/us/app/typist/id415166115?mt=12)
 ##2. [Markdown](http://daringfireball.net/projects/markdown/syntax#link)
 ##3. git
   [极简英文版](http://rogerdudler.github.io/git-guide/) 
