@@ -1,5 +1,14 @@
-# 需学习的其他基础内容和技能
-##1. 打字  
+#参考资料
+
+##入门须知
+
+[理解 Pythoneer 路线图](http://wiki.zoomquiet.io/pythonic/WiPath2Pythoneer) By [Zoom Quiet](http://zoomquiet.io)
+
+[如何建立好的学习习惯系统？](http://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149566&idx=1&sn=c1487a24028e976851e6de953e841e71&chksm=84f0bc68b387357eb176de0335eedd6427635aac418d6abff7274eab553f0dd62be1e87c53f9&scene=0#rd) By [阳志平](http://www.yangzhiping.com)
+
+
+#基本功
+##1. 打字  
   [Typist](https://itunes.apple.com/us/app/typist/id415166115?mt=12)
 ##2. [Markdown](http://daringfireball.net/projects/markdown/syntax#link)
 ##3. git
